@@ -1,0 +1,19 @@
+body
+    {
+        background-color:rgb(184, 154, 159);
+    }
+a:link
+    {
+        color: lightsalmon;
+        text-decoration: none;
+        padding: 15px;
+    }
+a:hover
+    {
+        color: lightgray;
+
+    }
+h1
+    {
+        color: black;
+    }
